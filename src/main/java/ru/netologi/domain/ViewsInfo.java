@@ -1,5 +1,5 @@
 package ru.netologi.domain;
 
-public class viewsInfo {
+public class ViewsInfo {
     private int count;
 }

@@ -5,5 +5,5 @@ public class CommentsInfo {
     private boolean canPost;
     private boolean groups_can_post;
     private boolean can_close;
-    private  boolean can_open;
+    private boolean can_open;
 }
