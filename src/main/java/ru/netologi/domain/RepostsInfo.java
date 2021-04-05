@@ -1,6 +1,6 @@
 package ru.netologi.domain;
 
-public class Repostsinfo {
+public class RepostsInfo {
     private int count;
     private boolean user_reposted;
 }
